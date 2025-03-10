@@ -1,0 +1,2 @@
+SELECT IFNULL(null,80);
+SELECT COALESCE(null,null,9,9)
